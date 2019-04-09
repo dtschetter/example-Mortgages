@@ -1,9 +1,11 @@
 package mortgages.mortgages;
 
-rule github sync test
+rule 'dummy rule'
+
 when
   //conditions
 then
   //actions
+  
 end
 
